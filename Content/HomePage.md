@@ -1,12 +1,12 @@
-## How The Internet Works
+# How The Internet Works
 
-#### Basic Internet Questions 
+### Basic Internet Questions 
 ##### What is the internet?
 ##### Who oversees the internet?
 ##### How does the internet work?
 ##### How does the internet data move?
 
-#### Technical Internet Questions
+### Technical Internet Questions
 ##### What is DNS, and how does it work?
 ##### What is ICANN?
 ##### What is IP address?
