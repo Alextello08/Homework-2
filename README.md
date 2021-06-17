@@ -6,6 +6,6 @@ Authors:
 
 # [Home Page](https://github.com/kpp46/HowTheInternetWorks/blob/main/Content/Home%20Page)
 
-# [About](https://github.com/kpp46/HowTheInternetWorks/blob/main/Content/About)
+# [About](https://github.com/kpp46/HowTheInternetWorks/blob/main/Content/About.md)
 
 # [Main Menu](https://github.com/kpp46/HowTheInternetWorks/tree/main/TimeLine)
