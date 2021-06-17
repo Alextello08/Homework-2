@@ -1,6 +1,6 @@
 # How The Internet Works
 
-### Basic Internet Questions 
+### [Basic Internet Questions](https://github.com/kpp46/HowTheInternetWorks/blob/main/Basic%20Internet%20Questions.md)
 ##### What is the internet?
 ##### Who oversees the internet?
 ##### How does the internet work?
