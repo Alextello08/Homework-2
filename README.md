@@ -1,6 +1,6 @@
 # IS 601 - Web Systems Development
 ## General Information
-[#f03c15](Authors:)
+(#f03c15)[Authors:]
 ##### Kirtan Patel - [github](https://github.com/kpp46/HowTheInternetWorks)
 ##### Alex Tello - [github](https://github.com/Alextello08/Homework-2)
 
