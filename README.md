@@ -4,8 +4,8 @@ Authors:
 ##### Kirtan Patel -[github](https://github.com/kpp46/HowTheInternetWorks)
 ##### Alex Tello -[github]
 
-#[Home Page]
+# [Home Page]
 
-#[About]
+# [About]
 
-#[Main Menu]
+# [Main Menu]
