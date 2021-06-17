@@ -1,1 +1,2 @@
-# Homework-2
+# HowTheInternetWorks
+## General Website Info
