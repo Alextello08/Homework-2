@@ -8,4 +8,4 @@ Authors:
 
 # [About](https://github.com/kpp46/HowTheInternetWorks/blob/main/Content/About.md)
 
-# [Main Menu](https://github.com/kpp46/HowTheInternetWorks/tree/main/TimeLine)
+# [Main Menu](https://github.com/kpp46/HowTheInternetWorks/blob/main/Content/HomePage.md)
