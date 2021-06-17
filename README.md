@@ -7,5 +7,3 @@ Authors:
 # [Home Page](https://github.com/kpp46/HowTheInternetWorks/blob/main/Content/HomePage.md)
 
 # [About](https://github.com/kpp46/HowTheInternetWorks/blob/main/Content/About.md)
-
-# [Main Menu](https://github.com/kpp46/HowTheInternetWorks/blob/main/Content/MainMenu.md)
