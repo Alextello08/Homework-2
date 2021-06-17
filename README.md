@@ -4,8 +4,8 @@ Authors:
 ##### Kirtan Patel - [github](https://github.com/kpp46/HowTheInternetWorks)
 ##### Alex Tello - [github](https://github.com/Alextello08/Homework-2)
 
-# [Home Page]
+# [Home Page](https://github.com/kpp46/HowTheInternetWorks/blob/main/Content/Home%20Page)
 
-# [About]
+# [About](https://github.com/kpp46/HowTheInternetWorks/blob/main/Content/About)
 
-# [Main Menu]
+# [Main Menu](https://github.com/kpp46/HowTheInternetWorks/tree/main/TimeLine)
