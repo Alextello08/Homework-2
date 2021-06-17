@@ -1,3 +1,3 @@
-# HowTheInternetWorks
-## General Website Info
-## Page 1: History of the Internet
+# IS 601 - Web Systems Development
++
++ For this homework, you will take the outline that you created in the previous assignment and work with a partner to create the basic information you will need for the website that you will create as the final project for this section of the course.  For this unit you will need to write the website content, select images, create metadata, and generally plan out the concept and content that will be the basis of your website. You can choose any topic or idea for your website that combines historical, technical, and/or information about companies that relate to the history and technology of the Internet.
