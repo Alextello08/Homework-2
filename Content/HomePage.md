@@ -17,7 +17,7 @@
 # [History of the Internet](https://github.com/kpp46/HowTheInternetWorks/blob/main/TimeLine/Full%20Timeline.md)
 
 ### Time Line
-##### Contains Early PCs and ARPANET (1956-1992) 
+##### [Contains Early PCs and ARPANET (1956-1992)](https://github.com/kpp46/HowTheInternetWorks/blob/main/TimeLine/Contains%20Early%20PCs%20and%20ARPANET.md)
 ##### World Wide Web/Microsoft vs Netscape (1992-1998)
 ##### Search Engine Wars (1995-1998)
 ##### [Contains E-commerce and Dotcom boom (1995-2000)](https://github.com/kpp46/HowTheInternetWorks/blob/main/TimeLine/Contains%20E-commerce%20and%20Dotcom%20Boom.md)
