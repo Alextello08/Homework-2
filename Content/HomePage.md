@@ -6,7 +6,7 @@
 ##### How does the internet work?
 ##### How does the internet data move?
 
-### Technical Internet Questions
+### [Technical Internet Questions](https://github.com/kpp46/HowTheInternetWorks/blob/main/Technical%20Internet%20Questions.md)
 ##### What is DNS, and how does it work?
 ##### What is ICANN?
 ##### What is IP address?
