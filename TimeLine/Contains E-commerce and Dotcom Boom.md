@@ -3,7 +3,7 @@
 ## Ebay and Amazon
 
 * September 1995 Pierre Omidyar was developing EBay, by just having an auction site.
-### He quickly gained profits for transaction fees.
+* He quickly gained profits for transaction fees.
 
 * Spring 1998, they hired Meg Whitman so that they can lunch their IPO in September 1998
 * EBay stocks soared and were worth 2 Billion dollars
