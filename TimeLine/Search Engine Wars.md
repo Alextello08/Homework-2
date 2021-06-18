@@ -13,7 +13,7 @@
 * By 1997 the internet was growing more and were using search engines as portals
 * However the search engine technology itself wasn’t efficient enough
 
-* Google
+### Google
 
 * Google was founded by Larry Page and Sergey Brin
 * They used web page voting into their search engine in order to increase efficiency by counting the links
