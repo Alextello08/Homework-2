@@ -1,6 +1,4 @@
-# World Wide Web and Microsoft vs Netscape (1992-1998)
-
-## Tim Berners Lee developed the worldwide web but it was not user friendly at first
+Tim Berners Lee developed the worldwide web but it was not user friendly at first
 
 ## 1992 only 50 web pages existed in the worldwide web
 
