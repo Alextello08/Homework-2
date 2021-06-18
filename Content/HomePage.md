@@ -14,7 +14,7 @@
 ##### What is HTTPS?
 
 
-# [History of the Internet](https://github.com/kpp46/HowTheInternetWorks/blob/main/TimeLine/Full%20Timeline.md)
+# [History of the Internet](https://github.com/kpp46/HowTheInternetWorks/tree/main/TimeLine)
 
 ### Time Line
 ##### [Contains Early PCs and ARPANET (1956-1992)](https://github.com/kpp46/HowTheInternetWorks/blob/main/TimeLine/Contains%20Early%20PCs%20and%20ARPANET.md)
