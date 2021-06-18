@@ -1,3 +1,5 @@
+## Contains Early PCs and ARPANET (1956-1992)
+
 * JCR Licklider - created the idea of a universal network and spread his vision throughout the IPTO
 
 * Initial PCs were way too large and expensive at first
