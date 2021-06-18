@@ -1,10 +1,10 @@
-# Search Engine Wars (1995-1998)
+## Search Engine Wars (1995-1998)
 
-## Yahoo
+### Yahoo
 
-### Jerry Yang and David Filo founded Yahoo and the idea was first used to help themselves with fantasy basketball
-### First created Yahoo as a guide to the web
-### Sequoia Capital funded Yahoo
+* Jerry Yang and David Filo founded Yahoo and the idea was first used to help themselves with fantasy basketball
+* First created Yahoo as a guide to the web
+* Sequoia Capital funded Yahoo
 ### Advertising seemed like the best choice to make money even though there might be a social backlash
 ### Late 1995 Yahoo launches their first Ad
 
