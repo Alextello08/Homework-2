@@ -1,35 +1,37 @@
-JCR Licklider - created the idea of a universal network and spread his vision throughout the IPTO
+## Contains Early PCs and ARPANET (1956-1992)
 
-Initial PCs were way too large and expensive at first
+* JCR Licklider - created the idea of a universal network and spread his vision throughout the IPTO
 
-Cold War (Late 1950’s) it encouraged US to develop computer technology
+* Initial PCs were way too large and expensive at first
 
-Due to the USSR launching the first satellite, President Eisenhower created the ARPA
+* Cold War (Late 1950’s) it encouraged US to develop computer technology
 
-Leonard Kleinrock developed Demand access and Distributed control
+* Due to the USSR launching the first satellite, President Eisenhower created the ARPA
 
-The telephone system used circuit switching which was not resistant in case of a nuclear attack
+* Leonard Kleinrock developed Demand access and Distributed control
 
-Paul Baran developed the Packet switching method
+* The telephone system used circuit switching which was not resistant in case of a nuclear attack
 
-1966 (ARPA) Robert Taylor and Larry Roberts wanted to create a computer network through the ARPANET through IMPS
+* Paul Baran developed the Packet switching method
 
-BBN team - Frank Heart won the contract
+* 1966 (ARPA) Robert Taylor and Larry Roberts wanted to create a computer network through the ARPANET through IMPS
 
-1969 first IMP arrived at UCLA
+* BBN team - Frank Heart won the contract
 
-1971 network consisted of 17 computers
+* 1969 first IMP arrived at UCLA
 
-Raymond Tomlinson: E-mail creator
+* 1971 network consisted of 17 computers
 
-1972 the ARPA network was presented to the government only 25 sites online
+* Raymond Tomlinson: E-mail creator
 
-Robert Metcalfe creator of Ethernet
+* 1972 the ARPA network was presented to the government only 25 sites online
 
-LANs and WANs
+* Robert Metcalfe creator of Ethernet
 
-1974 TCP/IP protocol was created so that networks would be able to interconnect through a unified protocol
+* LANs and WANs
 
-1983 TCP/IP would be used as the standard protocol for all networks
+* 1974 TCP/IP protocol was created so that networks would be able to interconnect through a unified protocol
 
-1992 the government decided that this technology should be open to the general public
+* 1983 TCP/IP would be used as the standard protocol for all networks
+
+* 1992 the government decided that this technology should be open to the general public
